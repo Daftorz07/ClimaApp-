@@ -23,5 +23,5 @@ Para ejecutar este proyecto en tu entorno local, sigue los siguientes pasos:
 
 
 
-La aplicacion utilizada variables de entorno para las credenciales de la aplicacion, MAPBOX_KEY y OPENWEATHER_KEY
+La aplicacion utilizada variables de entorno para las credenciales de la aplicacion, MAPBOX_KEY y OPENWEATHER_KEY, para el uso de la aplicacion es necesaria la instalacion de los paquetes de Node
 
